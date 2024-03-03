@@ -1,7 +1,9 @@
 code,display
 cip.title,Major
-cip.earnings.highest.3_yr.overall_median_earnings,MedianEarning
-10_yrs_after_entry.mean_earnings,10YrEarning
+cip.earnings.highest.3_yr.overall_median_earnings,MedianEarning 3Yr
+cip.earnings.highest.3_yr.not_enrolled.overall_count,Earning#
+cip.earnings.4_yr.overall_median_earnings,MedianEarning 4Yr
+10_yrs_after_entry.mean_earnings,6Yr Earning (School)
 admission_rate.overall,AdmitRate
 cip.counts.ipeds_awards1,MajorPopulation
 sat_scores.average.overall,SAT
